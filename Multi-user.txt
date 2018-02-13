@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 new text - sup
+=======
+new text
+
+Raji_sample
+
+Raji sample 2
+>>>>>>> 121032ffcdfd9a3b73edb746359af8303fe659a9
+
+Mine - gaalici
+
