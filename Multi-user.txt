@@ -1,3 +1,18 @@
+<<<<<<< HEAD
 new text
 
 it's my birthday!
+=======
+<<<<<<< HEAD
+new text - sup
+=======
+new text
+
+Raji_sample
+
+Raji sample 2
+>>>>>>> 121032ffcdfd9a3b73edb746359af8303fe659a9
+
+Mine - gaalici
+
+>>>>>>> a98c562dc13670b752e530a7a66559e74cc2dc3d
